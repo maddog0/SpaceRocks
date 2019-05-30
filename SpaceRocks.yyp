@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "526fd1f3-f780-4576-93ec-49f1de44f516",
+            "Value": {
+                "id": "b3c0d44d-9f91-41e9-88a1-1ab895779820",
+                "resourcePath": "sprites\\spr_powerup\\spr_powerup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56e435e8-449b-4e66-affc-16667826a652",
             "Value": {
                 "id": "12dd302a-d1e4-4ca9-946c-7031155d995f",
